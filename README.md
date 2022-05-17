@@ -9,3 +9,4 @@
   <img src="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prissa30&langs_count=8)](https://github.com/prissa30/github-readme-stats">
  </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
